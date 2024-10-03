@@ -1,0 +1,51 @@
+id,account_id,account_type,transaction_id,transaction_id_orig,transaction_amount,transaction_date,transaction_type,transaction_type_name,transaction_channel,transaction_code,is_db_cr,user_id,spv_id,reversal_code,reversal_code_name
+1,1,Tabungan,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,250000,2022-12-30 20:26:00,11001,Transfer External IBFT,Mobile Banking,5,cr,10110658755,51,1,reverse
+2,2,Tabungan,f81bc473-1ac9-4ef6-9668-b13bcc9de919,f81bc473-1ac9-4ef6-9668-b13bcc9de919,100000,2022-12-30 20:27:00,11001,Transfer External IBFT,Mobile Banking,5,cr,10110658755,51,1,reverse
+3,3,Tabungan,bac1a35d-b062-4db7-9866-896c0a03e6e1,bac1a35d-b062-4db7-9866-896c0a03e6e1,1000000,2022-12-30 20:28:00,11001,Transfer External IBFT,Mobile Banking,5,cr,10110658755,51,1,reverse
+4,4,Tabungan,34ce2142-b6d4-48bb-890d-d3847cbc245e,34ce2142-b6d4-48bb-890d-d3847cbc245e,500000,2022-12-30 20:29:00,11001,Transfer External IBFT,Mobile Banking,5,cr,10110658755,51,1,reverse
+5,5,Tabungan,6f0ddadf-d44f-4b54-acb9-12c22c15bab8,6f0ddadf-d44f-4b54-acb9-12c22c15bab8,140000,2022-12-30 20:30:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658755,51,1,reverse
+6,6,Tabungan,f6fc4e5c-98ee-46a4-8a30-75838584dd72,f6fc4e5c-98ee-46a4-8a30-75838584dd72,750000,2022-12-30 20:32:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658755,51,1,reverse
+7,7,Tabungan,f9ea05a1-ceba-4c8c-a35b-81bc2461d924,f9ea05a1-ceba-4c8c-a35b-81bc2461d924,25000000,2022-12-30 20:33:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658755,51,1,reverse
+8,8,Tabungan,67e711a9-75d0-478a-9a98-f27940349b67,67e711a9-75d0-478a-9a98-f27940349b67,400000,2022-12-30 20:33:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658755,51,1,reverse
+9,9,Tabungan,42c5b209-59cb-46f2-8843-0295924a7e52,42c5b209-59cb-46f2-8843-0295924a7e52,1000000,2022-11-30 19:34:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658844,51,1,reverse
+10,10,Tabungan,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,1500000,2022-11-30 19:51:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658844,51,1,reverse
+11,11,Tabungan,bb1f22ef-052f-46c2-a17f-dbb7137967a7,bb1f22ef-052f-46c2-a17f-dbb7137967a7,400000,2022-11-30 22:51:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658844,51,1,reverse
+12,12,Tabungan,b52efd0e-20e9-4db0-bdaf-0917520ac926,b52efd0e-20e9-4db0-bdaf-0917520ac926,130000000,2022-12-01 5:16:00,409900,Transfer Internal,Mobile Banking,5,cr,10110658844,51,1,reverse
+13,13,Tabungan,310178c0-ec95-4edb-9a81-912c805f0464,310178c0-ec95-4edb-9a81-912c805f0464,150000,2022-12-05 8:02:00,401000,Transfer External BIFAST,Mobile Banking,5,cr,10110658844,51,1,reverse
+14,14,Tabungan,4e81a600-3583-4002-bd30-f79758b4fefd,4e81a600-3583-4002-bd30-f79758b4fefd,100000,2022-12-06 22:10:00,401000,Transfer External BIFAST,Mobile Banking,5,cr,10110658844,51,1,reverse
+15,15,Tabungan,bedfab3e-1638-4900-b54a-c09545bd30ec,bedfab3e-1638-4900-b54a-c09545bd30ec,50000,2022-12-15 17:19:00,401000,Transfer External BIFAST,Mobile Banking,5,cr,10110658844,51,1,reverse
+16,16,Tabungan,40e369e8-0b81-4b20-9607-ac5ce102e95d,40e369e8-0b81-4b20-9607-ac5ce102e95d,27000,2022-12-23 22:27:00,401000,Transfer External BIFAST,Mobile Banking,5,cr,10110661110,51,1,reverse
+17,17,Tabungan,06c79ad6-ef3c-444b-ad88-81debe92ab1e,06c79ad6-ef3c-444b-ad88-81debe92ab1e,500000,2022-12-15 13:26:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+18,18,Tabungan,27484943-0b9e-403f-8403-033e836bec59,27484943-0b9e-403f-8403-033e836bec59,1000000,2022-12-15 13:39:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+19,19,Tabungan,0d2d7b46-e353-4b61-9266-d40966342afe,0d2d7b46-e353-4b61-9266-d40966342afe,500000,2022-12-15 21:38:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+20,20,Tabungan,d0d4aaa7-1da0-4275-a99c-d8e99ed823d9,d0d4aaa7-1da0-4275-a99c-d8e99ed823d9,1300000,2022-12-16 7:34:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+21,21,Tabungan,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,250000,2022-12-20 17:59:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+22,22,Tabungan,f81bc473-1ac9-4ef6-9668-b13bcc9de919,f81bc473-1ac9-4ef6-9668-b13bcc9de919,100000,2022-12-26 7:22:00,409900,Transfer Internal,Mobile Banking,5,cr,10110661276,51,1,reverse
+23,23,Tabungan,bac1a35d-b062-4db7-9866-896c0a03e6e1,bac1a35d-b062-4db7-9866-896c0a03e6e1,1000000,2022-12-07 15:53:00,409900,Transfer Internal,Mobile Banking,5,cr,10110662710,51,1,reverse
+24,24,Tabungan,34ce2142-b6d4-48bb-890d-d3847cbc245e,34ce2142-b6d4-48bb-890d-d3847cbc245e,500000,2022-12-08 15:52:00,409900,Transfer Internal,Mobile Banking,5,cr,10110662710,51,1,reverse
+25,25,Tabungan,6f0ddadf-d44f-4b54-acb9-12c22c15bab8,6f0ddadf-d44f-4b54-acb9-12c22c15bab8,140000,2022-12-09 12:53:00,409900,Transfer Internal,Mobile Banking,5,cr,10110662710,51,1,reverse
+26,26,Tabungan,f6fc4e5c-98ee-46a4-8a30-75838584dd72,f6fc4e5c-98ee-46a4-8a30-75838584dd72,750000,2022-12-09 13:00:00,409900,Transfer Internal,Mobile Banking,5,cr,10110662710,51,1,reverse
+27,27,Tabungan,f9ea05a1-ceba-4c8c-a35b-81bc2461d924,f9ea05a1-ceba-4c8c-a35b-81bc2461d924,10000000,2022-12-29 17:27:00,409900,Transfer Internal,Mobile Banking,5,cr,10110662744,51,1,reverse
+28,28,Tabungan,67e711a9-75d0-478a-9a98-f27940349b67,67e711a9-75d0-478a-9a98-f27940349b67,400000,2022-11-25 20:06:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663422,51,1,reverse
+29,29,Tabungan,42c5b209-59cb-46f2-8843-0295924a7e52,42c5b209-59cb-46f2-8843-0295924a7e52,1000000,2022-11-28 8:56:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663422,51,1,reverse
+30,30,Tabungan,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,1500000,2022-11-28 9:32:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663422,51,1,reverse
+31,31,Tabungan,bb1f22ef-052f-46c2-a17f-dbb7137967a7,bb1f22ef-052f-46c2-a17f-dbb7137967a7,400000,2022-11-30 7:52:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663422,51,1,reverse
+32,32,Tabungan,b52efd0e-20e9-4db0-bdaf-0917520ac926,b52efd0e-20e9-4db0-bdaf-0917520ac926,5000000,2022-11-28 17:21:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+33,33,Tabungan,310178c0-ec95-4edb-9a81-912c805f0464,310178c0-ec95-4edb-9a81-912c805f0464,150000,2022-11-28 19:05:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+34,34,Tabungan,4e81a600-3583-4002-bd30-f79758b4fefd,4e81a600-3583-4002-bd30-f79758b4fefd,100000,2022-11-29 7:37:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+35,35,Tabungan,bedfab3e-1638-4900-b54a-c09545bd30ec,bedfab3e-1638-4900-b54a-c09545bd30ec,50000,2022-11-29 7:42:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+36,36,Tabungan,40e369e8-0b81-4b20-9607-ac5ce102e95d,40e369e8-0b81-4b20-9607-ac5ce102e95d,27000,2022-11-29 9:31:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+37,37,Tabungan,06c79ad6-ef3c-444b-ad88-81debe92ab1e,06c79ad6-ef3c-444b-ad88-81debe92ab1e,500000,2022-11-29 10:59:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+38,38,Tabungan,27484943-0b9e-403f-8403-033e836bec59,27484943-0b9e-403f-8403-033e836bec59,1000000,2022-11-30 9:18:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+39,39,Tabungan,0d2d7b46-e353-4b61-9266-d40966342afe,0d2d7b46-e353-4b61-9266-d40966342afe,500000,2022-12-02 6:51:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+40,40,Tabungan,d0d4aaa7-1da0-4275-a99c-d8e99ed823d9,d0d4aaa7-1da0-4275-a99c-d8e99ed823d9,1300000,2022-12-02 21:01:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+41,41,Tabungan,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,d2bcaf3c-3c99-4ce2-b60a-6a08854fae2b,250000,2022-12-05 12:33:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+42,42,Tabungan,f81bc473-1ac9-4ef6-9668-b13bcc9de920,f81bc473-1ac9-4ef6-9668-b13bcc9de920,100000,2022-12-05 15:18:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+43,43,Tabungan,bac1a35d-b062-4db7-9866-896c0a03e6e2,bac1a35d-b062-4db7-9866-896c0a03e6e2,1000000,2022-12-05 16:06:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+44,44,Tabungan,34ce2142-b6d4-48bb-890d-d3847cbc245e,34ce2142-b6d4-48bb-890d-d3847cbc245e,500000,2022-12-05 17:07:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+45,45,Tabungan,6f0ddadf-d44f-4b54-acb9-12c22c15bab9,6f0ddadf-d44f-4b54-acb9-12c22c15bab9,140000,2022-12-05 17:38:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+46,46,Tabungan,f6fc4e5c-98ee-46a4-8a30-75838584dd73,f6fc4e5c-98ee-46a4-8a30-75838584dd73,750000,2022-12-07 7:43:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+47,47,Tabungan,f9ea05a1-ceba-4c8c-a35b-81bc2461d925,f9ea05a1-ceba-4c8c-a35b-81bc2461d925,75000000,2022-12-07 9:31:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+48,48,Tabungan,67e711a9-75d0-478a-9a98-f27940349b68,67e711a9-75d0-478a-9a98-f27940349b68,400000,2022-12-08 17:33:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+49,49,Tabungan,42c5b209-59cb-46f2-8843-0295924a7e53,42c5b209-59cb-46f2-8843-0295924a7e53,1000000,2022-12-09 11:22:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
+50,50,Tabungan,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,46d729cf-5ab0-4b17-9eb6-101c18ddaf5f,1500000,2022-12-12 8:22:00,409900,Transfer Internal,Mobile Banking,5,cr,10110663716,51,1,reverse
