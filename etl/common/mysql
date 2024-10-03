@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mysql -h 10.130.2.35 \
+    -u user_ddv --password=36246c0648f723f7e44605953cd289437100d9fe63bb36852d58798c0a614217 \
+    --quick --compress \
+    -D dwh_nobu \
+    -e "$1" \
+    | sed 's/\n//g;s/\r//g' 
