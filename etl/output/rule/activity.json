@@ -1,0 +1,1 @@
+[[{"feature": {"source_id": "activity", "type": "timeseries_type_act", "params_timeseries": {"unit": "minutes", "value": 10}, "params_check": {"value": 1.014, "condition": ">"}, "filter": {"value": {"transaction_id": ["$transaction_id", "!="]}}}}]]

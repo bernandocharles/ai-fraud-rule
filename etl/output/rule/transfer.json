@@ -1,0 +1,1 @@
+[[{"feature": {"source_id": "transfer:sender", "type": "timeseries_trx_cnt", "params_timeseries": {"unit": "seconds", "value": 30}, "params_check": {"value": 1.135, "condition": ">"}, "filter": {"value": {"transaction_id": ["$transaction_id", "!="]}}}}]]

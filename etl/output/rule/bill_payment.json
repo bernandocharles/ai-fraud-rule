@@ -1,0 +1,1 @@
+[[{"feature": {"source_id": "bill_payment", "type": "ratio_avg_trx_amt_bp", "params_timeseries": {"unit": "days", "value": 30}, "params_check": {"value": 0.97, "condition": ">"}, "filter": {"value": {"transaction_id": ["$transaction_id", "!="]}}}}]]

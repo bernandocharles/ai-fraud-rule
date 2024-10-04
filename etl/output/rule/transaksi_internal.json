@@ -1,0 +1,1 @@
+[[{"feature": {"source_id": "trx_internal", "type": "correction_trx_int", "params_timeseries": {"unit": "seconds", "value": 0}, "params_check": {"value": 4.5, "condition": ">"}, "filter": {"value": {"transaction_id": ["$transaction_id", "!="]}}}}]]
